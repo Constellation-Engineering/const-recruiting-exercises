@@ -33,22 +33,24 @@ Each condition should have few comparisons.
 - Not Contain
 - Regex
 
-In the end, these conditions should filter out the list of data.
+In the end, these conditions should filter out the source data.
 
 ## What you should do?
 
 ### Requirements
 
-- Condition builder UI (Top section)
+- Condition builder UI 
+  - Top section where all the logic rules can be set
   ![Condition Builder UI](./images/condition_builder_ui.png)
-- Result section (Can be choice of yours. Does not have to be in table. Can be simple as a text. Ex. Out of 1000 rows, 10 filtered out., etc...)
+- Result section UI 
+  - Visual can be your choice, it does not have to be in a table.
   ![Result UI](./images/result_ui.png)
 - Input validations
   - For comparison operators (Greater Than, Less Than), the entered value must be number. Visually indicate this invalid input value.
 
 ### Nice to have
 
-The following is optional. These are nice to have options, but not requirements. However, if you are able to do those, it certainly would help us to make better decision on your skillset.
+The following is optional. These are nice to have options that will give you bonus points.
 
 - Visual feedback on where new `or` condition will be inserted when user hover over plus button (optional)
   ![Visual Feedback](./images/row_feedback.gif)
