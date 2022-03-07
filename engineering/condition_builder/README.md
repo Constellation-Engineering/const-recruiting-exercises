@@ -51,7 +51,7 @@ In the end, these conditions should filter out the list of data.
 The following is optional. These are nice to have options, but not requirements. However, if you are able to do those, it certainly would help us to make better decision on your skillset.
 
 - Visual feedback on where new `or` condition will be inserted when user hover over plus button (optional)
-  ![Visual Feedback](/images/row_feedback.gif)
+  ![Visual Feedback](./images/row_feedback.gif)
 - Input validations
   - For comparison operators (Greater Than, Less Than), the entered value must be number. Visually indicate this invalid input value.
 - Cypress tests (optional)
