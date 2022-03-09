@@ -64,7 +64,7 @@ The following is optional. These are nice to have options that will give you bon
 In order to submit your take-home project, please create new **private repository** and add the following members.
 
 
-- [Nauman Hafiz](github.com/canisvulgaris)
-- [Jonathan Parsons](github.com/jmparsons)
-- [Edward Chung](github.com/munjo5746)
-- [Yoelvis Mulen](github.com/ymulenll)
+- [Nauman Hafiz](https://www.github.com/canisvulgaris)
+- [Jonathan Parsons](https://www.github.com/jmparsons)
+- [Edward Chung](https://www.github.com/munjo5746)
+- [Yoelvis Mulen](https://www.github.com/ymulenll)
