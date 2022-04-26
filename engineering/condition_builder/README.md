@@ -39,12 +39,12 @@ In the end, these conditions should filter out the source data.
 
 ### Requirements
 
-- Condition builder UI 
+- Condition builder UI
   - Top section where all the logic rules can be set
-  ![Condition Builder UI](./images/condition_builder_ui.png)
-- Result section UI 
+    ![Condition Builder UI](./images/condition_builder_ui.png)
+- Result section UI
   - Visual can be your choice, it does not have to be in a table.
-  ![Result UI](./images/result_ui.png)
+    ![Result UI](./images/result_ui.png)
 - Input validations
   - For comparison operators (Greater Than, Less Than), the entered value must be number. Visually indicate this invalid input value.
 
@@ -63,8 +63,8 @@ The following is optional. These are nice to have options that will give you bon
 
 In order to submit your take-home project, please create new **private repository** and add the following members.
 
-
 - [Nauman Hafiz](https://www.github.com/canisvulgaris)
 - [Jonathan Parsons](https://www.github.com/jmparsons)
 - [Edward Chung](https://www.github.com/munjo5746)
 - [Yoelvis Mulen](https://www.github.com/ymulenll)
+- [Matias Alibertti](https://github.com/mattrc)
