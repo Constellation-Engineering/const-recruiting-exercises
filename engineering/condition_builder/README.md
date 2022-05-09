@@ -6,8 +6,9 @@ This take-home project is called the **Condition Builder**. This tool allows you
 
 - Ability to create a UI of an web application based on provided specifications.
 - Understanding of requirements and attention to detail.
-- Ability to work with complex react conditional logic.
+- Ability to work with complex React conditional logic.
 - Ability to handle error states within an application.
+- Ability to factor testing into your code.
 
 [Condition Builder](https://ca-recruiting-exercises.vercel.app/)
 ![demo](./images/demo.gif)
@@ -39,7 +40,14 @@ In the end, these conditions should filter out the source data.
 
 ### Requirements
 
-- Condition builder UI
+Please use a recent if not latest version of the following:
+- React
+- TypeScript
+- Jest
+- Cypress (optional)
+
+Functionality
+- Condition builder UI 
   - Top section where all the logic rules can be set
     ![Condition Builder UI](./images/condition_builder_ui.png)
 - Result section UI
@@ -56,8 +64,9 @@ The following is optional. These are nice to have options that will give you bon
   ![Visual Feedback](./images/row_feedback.gif)
 - Input validations
   - For comparison operators (Greater Than, Less Than), the entered value must be number. Visually indicate this invalid input value.
+- Unit test
 - Cypress tests (optional)
-- Unit test (optional)
+
 
 ## How to submit?
 
