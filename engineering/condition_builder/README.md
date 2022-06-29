@@ -1,4 +1,4 @@
-# Constellation Agency > Software Engineering > Take-Home Project
+# Constellation > Software Engineering > Take-Home Project
 
 ## Introduction
 
