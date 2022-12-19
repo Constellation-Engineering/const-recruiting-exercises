@@ -10,8 +10,8 @@ This take-home project is called the **Condition Builder**. This tool allows you
 - Ability to handle error states within an application.
 - Ability to factor testing into your code.
 
-[Condition Builder](https://ca-recruiting-exercises.vercel.app/)
 ![demo](./images/demo.gif)
+[Link to longer video walkthrough](./video/ui_demo_20221219.mp4))
 
 ## Features
 
@@ -43,10 +43,14 @@ In the end, these conditions should filter out the source data.
 Please use a recent if not latest version of the following:
 - React
 - TypeScript
-- Jest
-- Cypress (optional)
 
-Functionality
+Recommendations:
+- Do not use Redux
+- Our example uses MUI, but you can use another Design System you are familiar with if you prefer
+- In the README.md file, create a short list of improvements/enhancements you would include if you had time and this was a Production-level application, ex. Cypress UI tests
+
+
+Expected Functionality:
 - Condition builder UI 
   - Top section where all the logic rules can be set
     ![Condition Builder UI](./images/condition_builder_ui.png)
@@ -56,6 +60,7 @@ Functionality
 - Input validations
   - For comparison operators (Greater Than, Less Than), the entered value must be number. Visually indicate this invalid input value.
 
+
 ### Nice to have
 
 The following is optional. These are nice to have options that will give you bonus points.
@@ -64,8 +69,6 @@ The following is optional. These are nice to have options that will give you bon
   ![Visual Feedback](./images/row_feedback.gif)
 - Input validations
   - For comparison operators (Greater Than, Less Than), the entered value must be number. Visually indicate this invalid input value.
-- Unit test
-- Cypress tests (optional)
 
 
 ## How to submit?
