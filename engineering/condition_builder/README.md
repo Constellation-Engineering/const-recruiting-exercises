@@ -45,7 +45,7 @@ Please use a recent if not latest version of the following:
 - TypeScript
 
 Recommendations:
-- Do not use Redux
+- Do not use Redux or other state managers, keep it simple
 - Our example uses MUI, but you can use another Design System you are familiar with if you prefer
 - In the README.md file, create a short list of improvements/enhancements you would include if you had time and this was a Production-level application, ex. Cypress UI tests
 
