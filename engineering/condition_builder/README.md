@@ -11,7 +11,7 @@ This take-home project is called the **Condition Builder**. This tool allows you
 - Ability to factor testing into your code.
 
 ![demo](./images/demo.gif)
-[Link to longer video walkthrough](./video/ui_demo_20221219.mp4))
+[Link to longer video walkthrough](https://user-images.githubusercontent.com/1391832/208509525-1af1789e-35f6-4e63-9bfc-d33295330f0b.mp4)
 
 ## Features
 
