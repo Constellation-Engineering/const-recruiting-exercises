@@ -80,3 +80,4 @@ In order to submit your take-home project, please create new **private repositor
 - [Edward Chung](https://www.github.com/munjo5746)
 - [Yoelvis Mulen](https://www.github.com/ymulenll)
 - [Matias Alibertti](https://github.com/mattrc)
+- [Brycen Rogers](https://github.com/brycenrogers)
