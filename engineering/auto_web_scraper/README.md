@@ -53,15 +53,17 @@ The task involves creating a web scraper that will process an automotive dealers
     - Follow the PEP 8 style guide for Python code.
     - Use exception handling and logging.
 
-**Deliverable:**
+## Deliverable  
 
-A GitHub repository containing:
+A private GitHub repository containing:
 
 - Python code for the web scraper.
 - A README file documenting the approach, instructions to run the code, and any dependencies.
 - A sample CSV file.
 
-**Deliverable:**
+Please share the repo with the Github usernames listed at the bottom of this page.
+
+**Example Input and One Result:**
 
 Here are some example results which can help you identify the data which is mean to be pulled from the site.
 
@@ -93,3 +95,16 @@ An example row of Data retrieved from a New Vehicle page would be:
 - Ability to accurately extract information from a webpage.
 - Quality and organization of the output CSV file.
 - Code quality and adherence to Python best practices.
+
+## How to Submit?
+
+In order to submit your take-home project, please share your **private repository** with the following members.
+
+- [Nauman Hafiz](https://www.github.com/canisvulgaris)
+- [Yusuf Khan](https://www.github.com/getmykhan)
+- [Haochen Xie](https://www.github.com/haochenxie1)
+- [Alan Song](https://www.github.com/weilunsongconstellationagency)
+- [Mingwei Sun](https://www.github.com/haochenxie1)
+- [Hammad Chaudhry](https://www.github.com/hammadsaleemch345)
+
+Please reach out to nauman@helloconstellation.com if you have any questions.  
