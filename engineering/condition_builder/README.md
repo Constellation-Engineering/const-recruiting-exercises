@@ -15,7 +15,7 @@ This take-home project is called the **Condition Builder**. This tool allows you
 
 ## Features
 
-1. User should be able to load array of data from an url. The example shown in the video is: 
+1. User should be able to load array of data from an url. The example shown in the video is: https://data.nasa.gov/resource/y77d-th95.json
 2. User should be able to build **or** conditions concatenated with **and** conditions.
    - For an example, any `c{n}` resolved to be a boolean (ex. name equals to "something"), then the condition can be formed as `(c1 || c2 || c3) && (c4 || c5)`.
 3. User should be able to add `or` condition by pressing the plus button at the end of each row.
