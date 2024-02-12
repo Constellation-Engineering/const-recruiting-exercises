@@ -1,4 +1,4 @@
-# Constellation Agency > Quality Assurance
+# Constellation Software > Quality Assurance
 
 <img src="./../images/cs-wide-logo-min.png" width="500em">
 

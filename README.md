@@ -1,4 +1,4 @@
-# Constellation Agency > Hiring > Overview
+# Constellation Software > Hiring > Overview
 
 <img src="./images/cs-wide-logo-min.png" width="500em">
 
