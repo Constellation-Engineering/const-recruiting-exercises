@@ -1,4 +1,4 @@
-# Constellation > Quality Assurance Test Automation > Take-Home Project
+# Constellation Software > Quality Assurance Test Automation > Take-Home Project
 
 ## Introduction
 
