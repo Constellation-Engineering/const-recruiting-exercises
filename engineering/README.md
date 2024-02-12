@@ -1,6 +1,6 @@
 # Constellation Agency > Software Engineering
 
-![Constellation Logo](./../images/ca-wide-logo-min.png)
+<img src="./../images/cs-wide-logo-min.png" width="500em">
 
 Welcome to our hiring, Software Engineer page.
 

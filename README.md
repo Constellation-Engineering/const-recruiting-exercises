@@ -1,6 +1,6 @@
 # Constellation Agency > Hiring > Overview
 
-![Constellation Logo](./images/ca-wide-logo-min.png)
+<img src="./images/cs-wide-logo-min.png" width="500em">
 
 
 

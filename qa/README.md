@@ -1,6 +1,6 @@
 # Constellation Agency > Quality Assurance
 
-![Constellation Logo](./../images/ca-wide-logo-min.png)
+<img src="./../images/cs-wide-logo-min.png" width="500em">
 
 Welcome to our hiring, Quality Assurance page.
 
