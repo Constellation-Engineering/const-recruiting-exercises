@@ -16,7 +16,7 @@ Create a 300x250 web display banner that adheres to the design guidelines and st
 
 ![](./assets/const-display-sample-300x250.gif)
 
-[Link to higher quality MP4](./assets/const-display-sample-300x250.mp4)
+[Link to higher quality MP4](https://github.com/Constellation-Engineering/const-recruiting-exercises/assets/1391832/914f41f3-9f87-42ba-a2cf-59d581af5029)
 
 - **Dimensions:** The banner should be exactly 300x250 pixels.
 - **Layout:**
