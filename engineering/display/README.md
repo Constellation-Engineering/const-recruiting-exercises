@@ -42,7 +42,10 @@ Constellation Logo:
 
 - **Interactivity:**
   - The banner must include a scrolling disclaimer text at the bottom. This should automatically scroll indefinitely.
-  - Ensure that the scrolling is smooth and continuous.
+  - Ensure that the animations scrolling is smooth and continuous.
+  - If the user hovers their mouse over that disclaimer section, the auto-scrolling should stop.
+  - If the user interacts with the scrollbar, the auto-scrollig should stop.
+  - Clicking anywhere on the 300x250 surface of the banner should link the user to https://www.helloconstellation.com in a new tab/window.
 
 ## Testing and Compatibility
 
