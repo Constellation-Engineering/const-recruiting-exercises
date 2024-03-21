@@ -24,11 +24,14 @@ Create a 300x250 web display banner that adheres to the design guidelines and st
   - Include a persistent disclaimer at the bottom of the banner with a smaller font size that is legible.
   - All text can be Lorem Ipsum
 - **Assets:** Use attached logo and background image - you can also try using css for the background that somewhat matches the visual mock.
-<!-- ![](./assets/background.jpg) -->
-<img src="./assets/background.jpg" alt="drawing" width="200"/>
 
+Background:
+<!-- ![](./assets/background.jpg) -->
+<img src="./assets/background.jpg" alt="background" width="200"/>
+
+Constellation Logo:
 <!-- ![](./assets/logo.png) -->
-<img src="./assets/logo.png" alt="drawing" width="200"/>  
+<img src="./assets/logo.png" alt="logo" width="200" style="background-color: grey"/>  
 
 - **Fonts:** Choose a web-safe font or include a Google Fonts link for a font that closely matches the sample. Ensure the font sizes are readable and scale appropriately to the size of the banner.
 - **Content:**
